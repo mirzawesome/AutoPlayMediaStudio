@@ -1,0 +1,54 @@
+﻿body {
+Direction:rtl;
+margin: 0px;
+}
+#statue {
+width:100%;
+}
+#title_bar{
+background-color: #F0F0F0;
+background-image: url('Gradint.png');
+background-position: bottom;
+background-repeat: repeat-x;
+height:58px;
+}
+#title{
+color: #000000;
+font-family: Tahoma;
+font-size: 24px;
+padding-bottom: 5px;
+padding-left: 10px;
+padding-right: 10px;
+padding-top: 10px;
+}
+#navigation{
+color: #000000;
+font-family: Tahoma;
+font-size: 24px;
+padding-bottom: 10px;
+padding-left: 10px;
+padding-right: 10px;
+padding-top: 10px;
+}
+#cadre {
+border:none;
+border-color:#000000;
+border-width:1px;
+}
+#footer{
+border-color: #707070;
+border-top-style: solid;
+border-width: 1px;
+color: #000000;
+font-family: Calibri;
+font-size: 5px;
+margin-bottom: 5px;
+margin-left: 5px;
+margin-right: 5px;
+margin-top: 5px;
+padding-bottom: 5px;
+padding-left: 5px;
+padding-right: 5px;
+padding-top: 5px;
+text-align: center;
+}
